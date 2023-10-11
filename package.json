@@ -1,0 +1,24 @@
+{
+  "name": "micromouse_robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djuanzz/micromouse_robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djuanzz/micromouse_robot/issues"
+  },
+  "homepage": "https://github.com/Djuanzz/micromouse_robot#readme",
+  "dependencies": {
+    "p5": "^1.7.0",
+    "socket.io": "^4.7.2"
+  }
+}
